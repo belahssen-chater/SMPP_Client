@@ -1,0 +1,26 @@
+# Compiled class files
+*.class
+target/
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.eclipse/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+app.log
+
+# Temporary files
+*.tmp
+*.temp
+summary.txt
+sms_summary.txt
