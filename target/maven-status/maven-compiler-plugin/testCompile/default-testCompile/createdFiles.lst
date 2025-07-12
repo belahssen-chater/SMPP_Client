@@ -1,0 +1,7 @@
+org/engine/config/SMSTaskConfigTest.class
+org/engine/service/MSISDNServiceTest.class
+org/engine/AppTest.class
+org/engine/utils/FileUtilsTest.class
+org/engine/config/ThreadPoolConfigTest.class
+org/engine/utils/RandomSubListTest.class
+org/engine/config/SMPPConfigTest.class
